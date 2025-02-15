@@ -1,0 +1,61 @@
+{
+    "5OKBQUZ": {
+        "deal_id": "5OKBQUZ",
+        "channel_id": 1338910962991890525,
+        "buyer": null,
+        "seller": null,
+        "deal_amount_usd": null,
+        "amount_in_ltc": null,
+        "timestamp": "2025-02-11T16:34:08.891000+00:00"
+    },
+    "LY7OSKB": {
+        "deal_id": "LY7OSKB",
+        "channel_id": 1338911972032512155,
+        "buyer": 921434922399453184,
+        "seller": 983043120264532020,
+        "deal_amount_usd": 0.0,
+        "amount_in_ltc": 0.0,
+        "timestamp": "2025-02-11T16:38:09.541000+00:00",
+        "ltc_address": "Ldk6s72hfDGr2Q8WrGiKULhyJk77qZCQFD",
+        "private_key": "T4BEk1RSkLV9eiUeSS2fTgBdT8a6gDcxKbUfzfYSeR4YjRALyqGA"
+    },
+    "TAHI0SD": {
+        "deal_id": "TAHI0SD",
+        "channel_id": 1338914874696269884,
+        "buyer": 921434922399453184,
+        "seller": 983043120264532020,
+        "deal_amount_usd": 0.5,
+        "amount_in_ltc": 0.004036978725122119,
+        "timestamp": "2025-02-11T16:49:41.530000+00:00",
+        "ltc_address": "LTmVeLT6ivXtC3dC5ZWmyU3M1WdhY4Wyun",
+        "private_key": "T4fTJc8cYfjPBydMp1ACJHzwZHLFhBoJjQUjqL21mtZTcdojne2g",
+        "received_amount_ltc": 0.0041,
+        "received_amount_usd": 0.5091995
+    },
+    "M8DJX5S": {
+        "deal_id": "M8DJX5S",
+        "channel_id": 1338920718293008394,
+        "buyer": 921434922399453184,
+        "seller": 925771818403524639,
+        "deal_amount_usd": 0.5,
+        "amount_in_ltc": 0.004050058725851525,
+        "timestamp": "2025-02-11T17:12:54.697000+00:00",
+        "ltc_address": "LWc58jjnmxgX1h5PV82jawdQkcyXhgUrKd",
+        "private_key": "T5NshCZosyUDLQVviohg6JFnXbMRUyD98biwQmpd2XL17yLzgNpV",
+        "received_amount_ltc": 0.0041,
+        "received_amount_usd": 0.5055915000000001
+    },
+    "NM49FT2": {
+        "deal_id": "NM49FT2",
+        "channel_id": 1338989872823930923,
+        "buyer": 1258185931102617675,
+        "seller": 921434922399453184,
+        "deal_amount_usd": 0.3,
+        "amount_in_ltc": 0.0024744308808973938,
+        "timestamp": "2025-02-11T21:47:42.398000+00:00",
+        "ltc_address": "LX6E53HN3yVNAdPjPJbXkyotu6MyxtiRxF",
+        "private_key": "TBTsyjLTkMUgvCAdnQ5358L1svmw1q6EKEwmi9TqHDPr5UaqKPkt",
+        "received_amount_ltc": 0.0025,
+        "received_amount_usd": 0.3015625
+    }
+}

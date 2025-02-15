@@ -1,0 +1,5 @@
+discord.py
+qrcode
+psutil
+chat-exporter
+configparser
