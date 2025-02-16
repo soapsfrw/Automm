@@ -61,6 +61,8 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+      - name: Upgrade pip (optional)
+        run: pip install --upgrade pip
       
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
